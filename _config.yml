@@ -21,7 +21,7 @@
 title:            'Wax-IIIF'
 description:      'Minimal Wax for IIIF Workshop'
 url:              'https://dawnchildress.com'
-baseurl:          '/wax'
+baseurl:          '/wax-iiif'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
